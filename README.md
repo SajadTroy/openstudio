@@ -1,5 +1,9 @@
 # OpenStudio
 
+<p align="center">
+  <img src="files/openstudio.jpg" width="100%" alt="OpenStudio Banner">
+</p>
+
 **Your Personal Broadcast Tower for OpenStream.**
 
 OpenStudio is a lightweight, self-hosted streaming server. It allows you to broadcast from OBS Studio directly to your VPS.
