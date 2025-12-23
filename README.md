@@ -50,7 +50,7 @@ Now that your station is live, add it to the global OpenStream playlist so other
 5.  **Append your channel** to the bottom of the file using this format:
 
     ```text
-    #EXTINF:-1 group-title="Your Category" tvg-logo="[https://example.com/logo.png](https://example.com/logo.png)", Your Channel Name
+    #EXTINF:-1 group-title="Your Category" tvg-logo="https://example.com/logo.png", Your Channel Name
     http://<YOUR_VPS_IP>:8888/hls/index.m3u8
     ```
 
